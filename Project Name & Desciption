@@ -1,0 +1,5 @@
+Predicting Breast Cancer using SVMPredicting Breast Cancer using SVM
+
+We used sklearn builtin dataset called load_breast_cancer. 
+We try to predict the presence or absence of breast cancer using various medical features such as mean radius, mean concavity, worst fractal dimension etc. 
+We then used Support Vector Machine Algorithm to develop a model to predict on test dataset.
