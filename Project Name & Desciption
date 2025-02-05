@@ -1,11 +1,11 @@
-1. Predicting Breast Cancer using SVMPredicting Breast Cancer using SVM
+1. Predicting Breast Cancer using SVM
 
-We used sk-learn builtin dataset called load_breast_cancer. 
-We try to predict the presence or absence of breast cancer using various medical features such as mean radius, mean concavity, worst fractal dimension, etc. 
-We then used the Support Vector Machine Algorithm to develop a model to predict on the test dataset.
+I used the sk-learn builtin dataset called load_breast_cancer. 
+I try to predict the presence or absence of breast cancer using various medical features such as mean radius, mean concavity, worst fractal dimension, etc. 
+I then used the Support Vector Machine Algorithm to develop a model to predict the test dataset.
 
-2. Predicting Flowers Class using SVMPredicting Flowers Class using SVM
+2. Predicting Flowers Class using SVM
 
-We used a built-in seaborn iris dataset which has 3 classes and
-we tried to predict them using various, input features such as sepal_length, sepal_width, petal_length, and petal_width. 
-We then use the SVM algorithm to develop a hyper-plane to distinguish the 3 classes.
+I used a built-in seaborn iris dataset which has 3 classes and
+I tried to predict them using various, input features such as sepal_length, sepal_width, petal_length, and petal_width. 
+i then use the SVM algorithm to develop a hyper-plane to distinguish the 3 classes.
